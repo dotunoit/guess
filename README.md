@@ -1,4 +1,4 @@
-# guess
+# guess game
 
 This code implements a simple guessing game where the player needs to guess a randomly generated number. 
 Breaking it down below
